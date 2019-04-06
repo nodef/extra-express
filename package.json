@@ -1,6 +1,6 @@
 {
   "name": "extra-express",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Support methods for express package.",
   "main": "index.js",
   "scripts": {
@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/nodef/extra-express/issues"
   },
-  "homepage": "https://github.com/nodef/extra-express#readme"
+  "homepage": "https://github.com/nodef/extra-express#readme",
+  "dependencies": {
+    "express": "4"
+  }
 }
