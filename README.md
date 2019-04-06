@@ -1,4 +1,4 @@
-Support methods for express package.
+Support methods for [express package].
 > Need to handle error from express routes using async?<br>
 
 ```javascript
@@ -30,3 +30,9 @@ const express = require('extra-express');
 express.async(callback);
 : callback(req, res, [next])
 ```
+<br>
+
+
+[![nodef](https://merferry.glitch.me/card/extra-express.svg)](https://nodef.github.io)
+
+[express package]: https://www.npmjs.com/package/express
