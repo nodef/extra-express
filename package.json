@@ -1,7 +1,7 @@
 {
   "name": "extra-express",
-  "version": "0.0.1",
-  "description": "Test",
+  "version": "0.0.2",
+  "description": "Support methods for express package.",
   "main": "index.js",
   "scripts": {
     "test": "exit"
