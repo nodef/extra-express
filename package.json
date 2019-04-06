@@ -1,6 +1,6 @@
 {
   "name": "extra-express",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Support methods for express package.",
   "main": "index.js",
   "scripts": {
@@ -16,6 +16,23 @@
     "url": "https://github.com/nodef/extra-express/issues"
   },
   "homepage": "https://github.com/nodef/extra-express#readme",
+  "keywords": [
+    "extra",
+    "express",
+    "support",
+    "method",
+    "package",
+    "framework",
+    "rest",
+    "restful",
+    "router",
+    "app",
+    "api",
+    "async",
+    "error",
+    "handle",
+    "merferry"
+  ],
   "dependencies": {
     "express": "4"
   }
