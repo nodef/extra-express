@@ -1,0 +1,19 @@
+{
+  "name": "extra-express",
+  "version": "0.0.1",
+  "description": "Test",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodef/extra-express.git"
+  },
+  "author": "wolfram77@gmail.com",
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/nodef/extra-express/issues"
+  },
+  "homepage": "https://github.com/nodef/extra-express#readme"
+}
