@@ -1,9 +1,11 @@
 {
   "name": "extra-express",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Support methods for express package.",
   "main": "index.js",
   "scripts": {
+    "build": "exit",
+    "deploy": "ebuild publish+github --publishMin=false --publishBranch=false",
     "test": "exit"
   },
   "repository": {
@@ -35,5 +37,8 @@
   ],
   "dependencies": {
     "express": "4"
+  },
+  "devDependencies": {
+    "extra-build": "^1.4.3"
   }
 }
