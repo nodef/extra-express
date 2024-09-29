@@ -1,6 +1,6 @@
 {
   "name": "extra-express",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Support methods for express package.",
   "main": "index.js",
   "scripts": {
@@ -36,9 +36,9 @@
     "merferry"
   ],
   "dependencies": {
-    "express": "4"
+    "express": "4.21.0"
   },
   "devDependencies": {
-    "extra-build": "^2.2.41"
+    "extra-build": "^2.3.0"
   }
 }
