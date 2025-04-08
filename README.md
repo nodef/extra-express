@@ -34,5 +34,6 @@ express.async(callback);
 
 
 [![nodef](https://merferry.glitch.me/card/extra-express.svg)](https://nodef.github.io)
+![](https://ga-beacon.deno.dev/G-RC63DPBH3P:SH3Eq-NoQ9mwgYeHWxu7cw/github.com/nodef/extra-express)
 
 [express package]: https://www.npmjs.com/package/express
